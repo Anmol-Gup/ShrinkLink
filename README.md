@@ -54,3 +54,6 @@ This project is licensed under the <a href="https://github.com/Anmol-Gup/ShrinkL
 - <a href="https://expressjs.com/">Express.js</a> for the web application framework.
 - <a href="https://www.mongodb.com/">MongoDB</a> for the database.
 - <a href="https://developer.chrome.com/docs/extensions/get-started">Chrome Extension Documentation</a> for extension development guidance.
+
+## Demo
+https://youtu.be/bmnG9f7CubI
