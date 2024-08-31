@@ -1,0 +1,10 @@
+const urlValidation=require('url-validation')
+
+console.log(urlValidation('http://google.com'))
+console.log(urlValidation('http://google.comhttps://chatgpt.com/c/df642556-f60a-4023-943f-4f59f3ebc4bd'))
+console.log(urlValidation('http://chatgpt.com/c/df642556-f60a-4023-943f-4f59f3ebc4bd'))
+console.log(urlValidation('http://localhost:3000/UMPf3zMo'))
+console.log(urlValidation('http://yout.comUexistsMPf3zMo'))
+console.log(urlValidation('https://www.youtube.com/watch?v=l1XTQjTgqxU'))
+console.log(urlValidation('https://www.youtube./watch?v=l1XTQjTgqxU'))
+console.log(urlValidation('url-'))
