@@ -6,7 +6,6 @@ ShrinkLink is a Chrome extension that allows you to easily shorten URLs directly
 
 - Shorten URLs quickly and easily.
 - Copy shortened URLs to your clipboard.
-- Manage and view your shortened URLs.
 
 ## Technologies
 1. **Frontend:** HTML, CSS, JavaScript, Bootstrap
